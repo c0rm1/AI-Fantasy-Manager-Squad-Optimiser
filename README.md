@@ -1,4 +1,4 @@
-#AI-Fantasy-Manager-Squad-Optimiser
+# AI-Fantasy-Manager-Squad-Optimiser
 
 Goal: Create an assistant that recommends the strongest fantasy team, transfers, captain, and starting lineup.
 
